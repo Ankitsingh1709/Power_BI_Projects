@@ -1,6 +1,3 @@
-Certainly! Here's a README.md overview for your GitHub repository based on the provided content:
-
-```markdown
 # Quality Analysis Dashboard in Power BI
 
 Welcome to the Quality Analysis Dashboard in Power BI repository. This project offers a comprehensive analysis and visualization of data using Power BI, focusing on quality analysis and insights. 
