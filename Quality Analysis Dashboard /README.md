@@ -4,7 +4,7 @@ Welcome to the Quality Analysis Dashboard in Power BI repository. This project o
 
 ## Overview
 
-In this repository, we have created a Quality Analysis Dashboard in Power BI to provide meaningful insights into your data. The project includes the following key features:
+In this repository, we have created a Quality Analysis Dashboard in Power BI to provide meaningful insights into your data. We have displayed **Total Task**,**Sample**, **Defect**, **Fatal Error**, and **Quality Score**.
 
 ### Data Exploration
 
@@ -20,6 +20,11 @@ To enhance data comprehension, we utilize various data visualization techniques,
 - Scatter plots: Visualizing relationships and patterns within the data.
 - Regression plots: Analyzing trends and correlations.
 - Correlation matrices: Calculating correlation coefficients between numeric features.
+
+1. This dashboard has two pages. The First page is the main dashboard page, wherein we have displayed multiple charts and cards for various metrics.
+
+
+2. In the 2nd, we have displayed the tabular view by employee and supervisor.
 
 ### Quality Analysis
 
