@@ -25,24 +25,9 @@ To enhance data comprehension, we utilize various data visualization techniques,
 
 Our project emphasizes quality analysis, helping you uncover valuable insights and make informed decisions based on your data. We aim to empower users to extract meaningful information from their datasets with ease.
 
-## How to Use
 
-To leverage this Quality Analysis Dashboard in Power BI, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Open the Power BI file provided and connect it to your dataset.
-3. Customize the dashboard to suit your specific data analysis needs.
-4. Explore, visualize, and gain valuable insights from your data effortlessly.
 
-## Contributions
 
-We welcome contributions from the community to enhance and expand this Quality Analysis Dashboard. Whether it's adding new visualizations, improving the existing ones, or addressing issues, your input is valuable to us. Please feel free to contribute by opening pull requests.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Thank you for visiting our repository! We hope you find this Quality Analysis Dashboard in Power BI valuable for your data analysis endeavors.
-```
-
-Please replace any placeholders with specific details or instructions for your repository as needed.
