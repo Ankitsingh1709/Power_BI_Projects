@@ -22,9 +22,12 @@ To enhance data comprehension, we utilize various data visualization techniques,
 - Correlation matrices: Calculating correlation coefficients between numeric features.
 
 1. This dashboard has two pages. The First page is the main dashboard page, wherein we have displayed multiple charts and cards for various metrics.
+![image](<Screenshot (3).png>)
+
 
 
 2. In the 2nd, we have displayed the tabular view by employee and supervisor.
+![image](<Screenshot (4).png>)
 
 ### Quality Analysis
 
